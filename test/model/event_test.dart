@@ -1,6 +1,6 @@
 import "package:test/test.dart";
 
-import "package:tremblant_earth/model/event.dart";
+import "package:quake_explorer/model/event.dart";
 
 void main() {
   group("model/event.dart", () {

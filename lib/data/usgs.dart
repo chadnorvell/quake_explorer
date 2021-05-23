@@ -2,7 +2,7 @@ import "dart:convert";
 
 import "package:http/http.dart" as http;
 
-import "package:tremblant_earth/data/core.dart";
+import "package:quake_explorer/data/core.dart";
 
 const uriDomain = "earthquake.usgs.gov";
 const uriPath = "fdsnws/event/1";

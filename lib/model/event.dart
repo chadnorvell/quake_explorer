@@ -1,5 +1,5 @@
-import "package:tremblant_earth/data/usgs.dart";
-import "package:tremblant_earth/utils.dart";
+import "package:quake_explorer/data/usgs.dart";
+import "package:quake_explorer/utils.dart";
 
 class Event {
   final String locationDescription;
